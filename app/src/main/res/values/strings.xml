@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Telesales</string>
+    <string name="error_phonenumber">No telp Belum Diisi !</string>
+    <string name="title_activity_login">Login</string>
+    <string name="positive_yes">YA</string>
+    <string name="positive_ok">OK</string>
+    <string name="negative_no">TIDAK</string>
+    <string name="detail">DETAIL</string>
+    <string name="msg_no_task_available">Anda belum mempunyai tugas telepon saat ini</string>
+    <string name="msg_you_have_call_customer_task">Anda mempunyai tugas telepon customer : \n\n</string>
+    <string name="menu_logout">Logout</string>
+    <string name="msg_delete_customer_successfully">Hapus data customer berhasil</string>
+    <string name="msg_delete_customer_failed">Hapus data customer gagal</string>
+    <string name="title_call_now">Telepon Sekarang</string>
+    <string name="title_name">Nama</string>
+    <string name="title_no_phone">No. Telepon</string>
+    <string name="title_cust_name">Nama Customer</string>
+    <string name="open_nav_drawer">Buka navigasi</string>
+    <string name="close_nav_drawer">Tutup navigasi</string>
+    <string name="choose_sim_card">Silahkan Pilih Sim Card</string>
+    <string name="lanjutkan_dengan_google">LANJUTKAN DENGAN GOOGLE</string>
+    <string name="lanjutkan_dengan_facebook">LANJUTKAN DENGAN FACEBOOK</string>
+    <string name="telesales_id">1071819363474-m3il4htdskbknbehf60g1it4h65b9m94.apps.googleusercontent.com</string>
+    <string name="telesales_id_new">190321070366-imv7e4a73s74va6e8uf4buei87dmt19o.apps.googleusercontent.com</string>
+    <string name="telesales_api">http://192.168.101.155:9999/</string>
+    <string name="error_title">Oops!</string>
+
+</resources>

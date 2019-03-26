@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorGreen</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="actionMenuTextColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="actionMenuTextColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <style name="ThemeOverlay.GoogleAccent" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@color/colorSolidOnTheDark</item>
+    </style>
+
+    <style name="LoginGoogleButton" parent="Base.Widget.AppCompat.Button.Colored">
+        <item name="android:theme">@style/ThemeOverlay.GoogleAccent</item>
+        <item name="android:textColor">@color/colorDimGrey</item>
+        <item name="android:textSize">@dimen/font_button_dp</item>
+        <item name="android:drawableStart">@drawable/ic_google_32</item>
+        <item name="android:drawablePadding">4dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:text">@string/lanjutkan_dengan_google</item>
+    </style>
+
+
+</resources>
